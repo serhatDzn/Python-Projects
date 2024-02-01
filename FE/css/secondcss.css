@@ -1,0 +1,23 @@
+body {
+    font-family: Lobster;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 2em;
+}
+
+#fir{
+    border:0.5em dashed black;
+    padding: 30px;
+    margin: 30px
+}
+
+#sec{
+    border:0.5em solid red;
+}
